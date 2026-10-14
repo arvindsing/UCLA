@@ -109,5 +109,38 @@ export const mockPhotos: Photo[] = [
     views: 4321,
     photographer: 'Tom Anderson',
     dateTaken: '2023-12-20'
+  },
+  {
+    id: '10',
+    url: '/placeholder-10.jpg',
+    title: 'Morning Mist Valley',
+    tags: ['landscape', 'morning', 'fog', 'nature'],
+    likes: 178,
+    downloads: 67,
+    views: 1843,
+    photographer: 'Rachel Green',
+    dateTaken: '2026-08-14'
+  },
+  {
+    id: '11',
+    url: '/placeholder-11.jpg',
+    title: 'Coastal Reflections',
+    tags: ['seascape', 'ocean', 'reflection', 'blue hour'],
+    likes: 221,
+    downloads: 98,
+    views: 2687,
+    photographer: 'Marcus Reed',
+    dateTaken: '2026-09-22'
+  },
+  {
+    id: '12',
+    url: '/placeholder-12.jpg',
+    title: 'Glass Tower Geometry',
+    tags: ['architecture', 'abstract', 'city', 'minimal', 'lines'],
+    likes: 143,
+    downloads: 52,
+    views: 1320,
+    photographer: 'Priya Nair',
+    dateTaken: '2026-07-30'
   }
 ];
