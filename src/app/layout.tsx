@@ -49,7 +49,8 @@ export default function RootLayout({
           </div>
         </header>
         {children}
-        {/*  */}
+        {/**/}
+      
       </body>
     </html>
   );
