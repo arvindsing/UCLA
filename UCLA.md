@@ -1,4 +1,4 @@
-UCLA, the University of California, Los Angeles, is a public research university in Los Angeles and part of the University of California system.
+UCLA, the Unversity of California, Los Angeles, is a public research university in Los Angeles and part of the University of California system.
 
 UCLA at a glance
 Type: Public research university.
